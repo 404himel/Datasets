@@ -1,1 +1,2 @@
 # Datasets
+This repository contains a dataset retrieved from an external API and stored here for convenience. The dataset is collected through automated requests to ensure it stays current and complete. Each data instance includes detailed attributes relevant to the project's scope, and the structure is organized to facilitate easy loading and use. Please refer to the API documentation for further information on the data source. This dataset is integral to supporting model training, validation, and testing, ensuring reproducibility and consistency in results.
